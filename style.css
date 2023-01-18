@@ -21,18 +21,18 @@ div{
     justify-content: center;
 }
 main{
-    background-color: rgba(255, 255, 0, 0.527);
+    background-color: rgba(0, 255, 51, 0.527);
     position: relative;
     top: 20vw;
 }
 button{
     min-height: 50px;
     min-width: 50px;
-    background-color: rgba(194, 194, 0, 0.484);
+    background-color: rgba(23, 23, 1, 0.484);
     border: solid .5px lightgray;
 }
 button:hover{
-    border:solid .5px blue;
+    border:solid .5px rgb(255, 0, 0);
     min-width: 55px;
     min-height: 55px;
 }

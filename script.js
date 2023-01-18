@@ -42,9 +42,9 @@ class Game{
             button.disabled = "true";
         }
 
-        let phrase = "Draw";
-        let win = "You win";
-        let lose = "You lose";
+        let phrase = "Draw! Could be worse...";
+        let win = "Congrats, you win!";
+        let lose = "You lose. Better luck next time!";
         let humanOutcome = this.outcome[0];
         let computerOutcome = this.outcome[1];
 
